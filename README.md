@@ -5,7 +5,7 @@ Lucca: 560731
 Diego: 556724
 Joud:  556482
 
-#Usos da linguagem
+# Usos da linguagem
 1.Definições [DEF,CLASS]
 2.Repetições [WHILE, WHILE NOT]
 3.Funções
