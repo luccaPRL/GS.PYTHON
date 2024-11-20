@@ -57,3 +57,5 @@ Total independência de energia elétrica.
 Compacto, portátil e fácil de usar.
 Ideal para aventureiros, turistas e locais com acesso limitado à eletricidade.
 Economia a longo prazo, eliminando custos com gás ou eletricidade para cozinhar.
+
+![image](https://github.com/user-attachments/assets/0cacb33b-8591-4e03-9df2-d07e5988d666)
