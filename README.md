@@ -5,6 +5,12 @@ Lucca: 560731
 Diego: 556724
 Joud:  556482
 
+#Usos da linguagem
+1.Definições [DEF,CLASS]
+2.Repetições [WHILE, WHILE NOT]
+3.Funções
+4.[IF,ELSE]
+
 # Detalhes do Projeto: SolarCooker
 1. Descrição Geral
 A SolarCooker é uma panela inovadora que utiliza energia solar para cozinhar alimentos de forma sustentável, eficiente e prática. Seu design portátil, resistente e tecnológico permite o uso em ambientes externos, como acampamentos, praias, parques e até em varandas.
