@@ -9,6 +9,9 @@ Joud:  556482
 1. Descrição Geral
 A SolarCooker é uma panela inovadora que utiliza energia solar para cozinhar alimentos de forma sustentável, eficiente e prática. Seu design portátil, resistente e tecnológico permite o uso em ambientes externos, como acampamentos, praias, parques e até em varandas.
 
+![image](https://github.com/user-attachments/assets/b5bb5afc-ed28-4956-aa23-d9aa04f572db)
+
+
 # Instruções de Uso
 Montagem:
 
@@ -57,5 +60,3 @@ Total independência de energia elétrica.
 Compacto, portátil e fácil de usar.
 Ideal para aventureiros, turistas e locais com acesso limitado à eletricidade.
 Economia a longo prazo, eliminando custos com gás ou eletricidade para cozinhar.
-
-![image](https://github.com/user-attachments/assets/0cacb33b-8591-4e03-9df2-d07e5988d666)
